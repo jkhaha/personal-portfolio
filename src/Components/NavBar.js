@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Contact extends Component{
+class NavBar extends Component{
   render(){
     return(
       <div>
-        <p>Contact</p>
+        <p>NavBar</p>
       </div>
     )
   }
 }
 
-export default Contact;
+export default NavBar;
