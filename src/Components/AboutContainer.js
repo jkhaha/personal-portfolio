@@ -5,7 +5,7 @@ class AboutContainer extends Component {
   render(){
     return(
       <div>
-      <p>About Container </p>
+      <p><b>About Me</b></p>
         <img className="head-shot" src={photo} alt="head shot" height="200px"/>
       <p className="about-me"> My name is Jackie Ha, and I am a full stack developer with a passion for technology
         that can help people. I first fell in love with coding after teaching myself HTML and CSS and making

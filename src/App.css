@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.about-me{
+.about-me, .project-desc{
   margin-left: 200px;
   margin-right: 200px;
 }
