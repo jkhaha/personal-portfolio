@@ -4,7 +4,8 @@ class Header extends Component {
   render(){
     return(
       <div>
-        <p>Header here</p>
+        <p className="header">Jackie Ha</p>
+        <p>full stack developer</p>
       </div>
     )
   }
