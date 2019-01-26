@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ScrollableAnchor from 'react-scrollable-anchor'
-
+import Header from './Header'
 import AboutContainer from "./AboutContainer"
 import ProjectContainer from "./ProjectContainer"
 import Contact from "./Contact"
@@ -9,6 +9,7 @@ class WindowContainer extends Component{
   render(){
     return(
       <div>
+      <Header/>
       <a className='link' href='#section1'> About Me </a> |
       <a className='link' href='#section2'> Projects </a> |
       <a className='link' href='#section3'> Contact Me </a>
