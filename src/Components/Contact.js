@@ -8,7 +8,9 @@ class Contact extends Component{
           Contact Me
         </b>
         </p>
-        <p>jackie.ha39@gmail.com</p>
+        <span>
+          <p>jackie.ha39@gmail.com</p> | 
+        </span>
       </div>
     )
   }
