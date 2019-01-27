@@ -10,8 +10,10 @@ class ProjectContainer extends Component{
         <div>
           <p><b>The Compound Effect</b></p>
             <p>
-              <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=ms7DAiEAoKk&feature=youtu.be">demo</a>
-               |<a className='link' target="_blank" rel="noopener noreferrer" href="https://github.com/jkhaha/final_project_frontend">github</a>
+              <span>
+              <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=ms7DAiEAoKk&feature=youtu.be">demo </a>
+               | <a className='link' target="_blank" rel="noopener noreferrer" href="https://github.com/jkhaha/final_project_frontend">github</a>
+           </span>
             </p>
           <p className="project-desc">The Compound Effect is an app that helps users build habits using the habit building
           cycle of cues, routines, and rewards. A user can create an account and create a habit,
@@ -21,8 +23,10 @@ class ProjectContainer extends Component{
         <div>
           <p><b>Turbo Typing</b></p>
           <p>
-            <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=hHQIUlHeOd0&feature=youtu.be">demo</a>
-             |<a className='link' target="_blank" rel="noopener noreferrer" href="https://github.com/jkhaha/speed-typing_frontend">github</a>
+            <span>
+            <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=hHQIUlHeOd0&feature=youtu.be">demo </a>
+             | <a className='link' target="_blank" rel="noopener noreferrer" href="https://github.com/jkhaha/speed-typing_frontend">github</a>
+          </span>
           </p>
           <p className="project-desc"> Turbo Typing is a typing test that measures speed and accuracy.
           A user enters in a username and chooses a level of difficulty, and they have 60 seconds to complete
@@ -35,8 +39,10 @@ class ProjectContainer extends Component{
         <div>
           <p><b>The Plant Diary</b></p>
             <p>
-              <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=EL4fazHLjEI&feature=youtu.be">demo</a>
-               |<a className='link' target="_blank" rel="noopener noreferrer" href="https://github.com/jkhaha/plant_diary">github</a>
+              <span>
+                <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=EL4fazHLjEI&feature=youtu.be">demo </a>
+               | <a className='link' target="_blank" rel="noopener noreferrer" href="https://github.com/jkhaha/plant_diary">github</a>
+              </span>
             </p>
           <p className="project-desc">The Plant Diary is an app made for plant lovers. A user can create an account
           and password and create a list of plants they have in their home. Users can then create
