@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
+import ContactLinks from './ContactLinks'
 
 class Contact extends Component{
   render(){
     return(
       <div>
         <p className="contact"><b>
-          Contact Me Here:
+          Contact Me:
         </b>
         </p>
-        <span>
-          <p>jackie.ha39@gmail.com</p> |
-        </span>
+        <p>jackie.ha39@gmail.com</p>
+        <ContactLinks/>
       </div>
     )
   }

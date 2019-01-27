@@ -20,13 +20,13 @@ class ThePlantDiary extends Component{
         and add comments to each plant's diary about the plant's condition!
         There is also a search bar so users can search their plants based on species.</p>
       <div>
-        <img className="project-photo" src={TPD1} alt="head shot" height="200px"/>
+        <img className="project-photo" src={TPD1} alt="head shot" height="400px"/>
       </div>
       <div>
-        <img className="project-photo" src={TPD2} alt="head shot" height="200px"/>
+        <img className="project-photo" src={TPD2} alt="head shot" height="400px"/>
       </div>
       <div>
-        <img className="project-photo" src={TPD3} alt="head shot" height="200px"/>
+        <img className="project-photo" src={TPD3} alt="head shot" height="400px"/>
       </div>
       </div>
     )

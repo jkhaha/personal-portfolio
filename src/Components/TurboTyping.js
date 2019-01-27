@@ -22,13 +22,13 @@ class TurboTyping extends Component{
         as I love typing tests. My current record is 116 words per minute!
         </p>
         <div>
-          <img className="project-photo" src={TT1} alt="head shot" height="200px"/>
+          <img className="project-photo" src={TT1} alt="head shot" height="400px"/>
         </div>
         <div>
-          <img className="project-photo" src={TT2} alt="head shot" height="200px"/>
+          <img className="project-photo" src={TT2} alt="head shot" height="400px"/>
         </div>
         <div>
-          <img className="project-photo" src={TT3} alt="head shot" height="200px"/>
+          <img className="project-photo" src={TT3} alt="head shot" height="400px"/>
         </div>
       </div>
     )
