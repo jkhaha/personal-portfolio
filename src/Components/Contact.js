@@ -5,11 +5,11 @@ class Contact extends Component{
     return(
       <div>
         <p className="contact"><b>
-          Contact Me
+          Contact Me Here:
         </b>
         </p>
         <span>
-          <p>jackie.ha39@gmail.com</p> | 
+          <p>jackie.ha39@gmail.com</p> |
         </span>
       </div>
     )
