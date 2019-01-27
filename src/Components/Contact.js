@@ -4,10 +4,13 @@ class Contact extends Component{
   render(){
     return(
       <div>
-        <p><b>
-          Contact
+        <p className="contact"><b>
+          Contact Me
         </b>
         </p>
+        <span>
+          <p>jackie.ha39@gmail.com</p> | 
+        </span>
       </div>
     )
   }
