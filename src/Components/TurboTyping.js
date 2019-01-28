@@ -6,8 +6,8 @@ import TT3 from '../img/TT3.png'
 class TurboTyping extends Component{
   render(){
     return(
-      <div>
-        <p><b>Turbo Typing</b></p>
+      <div className="turbo-typing">
+        <p className="project-names"><b>Turbo Typing</b></p>
         <p>
           <span>
           <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=hHQIUlHeOd0&feature=youtu.be">demo </a>

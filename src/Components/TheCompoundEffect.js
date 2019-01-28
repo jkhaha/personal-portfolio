@@ -6,8 +6,8 @@ import TCE3 from '../img/TCE3.png'
 class TheCompoundEffect extends Component{
   render(){
     return(
-      <div>
-        <p><b>The Compound Effect</b></p>
+      <div className="compound-effect">
+        <p className="project-names"><b>The Compound Effect</b></p>
           <p>
             <span>
             <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=ms7DAiEAoKk&feature=youtu.be">demo </a>
