@@ -12,16 +12,16 @@ class WindowContainer extends Component{
       <div>
       <Home/>
       <Header/>
-      
-      <ScrollableAnchor id={'section1'}>
+
+      <ScrollableAnchor id={'about_me'}>
         <AboutContainer/>
       </ScrollableAnchor>
 
-      <ScrollableAnchor id={'section2'}>
+      <ScrollableAnchor id={'my_projects'}>
         <ProjectContainer/>
       </ScrollableAnchor>
 
-      <ScrollableAnchor id={'section3'}>
+      <ScrollableAnchor id={'contact_me'}>
         <Contact/>
       </ScrollableAnchor>
       </div>

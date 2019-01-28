@@ -6,15 +6,15 @@ import TT3 from '../img/TT3.png'
 class TurboTyping extends Component{
   render(){
     return(
-      <div>
-        <p><b>Turbo Typing</b></p>
+      <div className="turbo-typing">
+        <p className="project-names"><b>Turbo Typing</b></p>
         <p>
           <span>
           <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=hHQIUlHeOd0&feature=youtu.be">demo </a>
            | <a className='link' target="_blank" rel="noopener noreferrer" href="https://github.com/jkhaha/speed-typing_frontend">github</a>
         </span>
         </p>
-        <p className="project-desc"> Turbo Typing is a typing test that measures speed and accuracy.
+        <p className="project-desc2"> Turbo Typing is a typing test that measures speed and accuracy.
         A user enters in a username and chooses a level of difficulty, and they have 60 seconds to complete
         as much of a prompt as they can. Words spelled correctly turn gray, words spelled incorrectly turn red,
         and the next word the user has to type turns blue. In Turbo Typing, there is no going back as the

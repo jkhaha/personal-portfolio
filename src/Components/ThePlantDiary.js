@@ -6,8 +6,8 @@ import TPD3 from '../img/TPD3.png'
 class ThePlantDiary extends Component{
   render(){
     return(
-      <div>
-        <p><b>The Plant Diary</b></p>
+      <div className="plant-diary">
+        <p className="project-names"><b>The Plant Diary</b></p>
           <p>
             <span>
               <a className='link' target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=EL4fazHLjEI&feature=youtu.be">demo </a>
