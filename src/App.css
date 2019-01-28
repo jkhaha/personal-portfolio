@@ -48,10 +48,13 @@
   /* text-shadow: 2px 2px 4px #BA919C; */
 }
 
-.link{
+.link, .header-link{
   text-decoration: none;
   color: black;
   font-style: italic;
+}
+.link:hover{
+  text-decoration: underline;
 }
 
 .about-container{
@@ -82,15 +85,18 @@
 }
 
 .contact{
-  padding-bottom: 20px;
   font-size: 30px;
 }
 
 .icon{
-  margin-bottom: 200px;
-  top: 5px;
+  display: inline;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
+.icon:hover{
+  opacity: 0.3;
+}
 .section-headers{
   font-size: 40px;
   padding-top: 50px;
