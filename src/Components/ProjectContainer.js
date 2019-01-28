@@ -8,7 +8,7 @@ class ProjectContainer extends Component{
     return(
       <div>
         <div>
-          <p><b>Projects</b></p>
+          <p className="section-headers"><b>Projects</b></p>
         </div>
         <TheCompoundEffect/>
         <TurboTyping/>

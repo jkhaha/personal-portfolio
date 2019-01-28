@@ -4,9 +4,9 @@ class Header extends Component {
   render(){
     return(
       <div className="header-component">
-        <a className='link' href='#section1'> About Me </a> |
-        <a className='link' href='#section2'> Projects </a> |
-        <a className='link' href='#section3'> Contact Me </a>
+        <a className='link' href='#about_me'> About Me </a> |
+        <a className='link' href='#my_projects'> Projects </a> |
+        <a className='link' href='#contact_me'> Contact Me </a>
       </div>
     )
   }
