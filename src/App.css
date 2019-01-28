@@ -83,10 +83,12 @@
 
 .contact{
   padding-bottom: 20px;
+  font-size: 30px;
 }
 
 .icon{
   margin-bottom: 200px;
+  top: 5px;
 }
 
 .section-headers{
@@ -106,4 +108,23 @@
 
 .project-names{
   font-size: 25px;
+  padding-top: 50px;
+}
+
+.project-photo{
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+  height: 400px;
+  width: 680px;
+}
+
+.head-shot{
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
+.project-desc{
+  padding-right: 400px;
+}
+
+.project-desc2{
+  padding-left: 400px;
 }
