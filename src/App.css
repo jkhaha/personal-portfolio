@@ -53,6 +53,10 @@
   color: black;
   font-style: italic;
 }
+
+.header-words{
+  background-color: rgb(240, 240, 240);
+}
 .link:hover{
   text-decoration: underline;
 }
