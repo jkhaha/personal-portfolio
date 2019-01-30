@@ -14,10 +14,12 @@ class TheCompoundEffect extends Component{
              | <a className='link' target="_blank" rel="noopener noreferrer" href="https://github.com/jkhaha/final_project_frontend">github</a>
          </span>
           </p>
-        <p className="project-desc">The Compound Effect is an app that helps users build habits using the habit building
-        cycle of cues, routines, and rewards. A user can create an account and create a habit,
-        specifically building out a cue, routine, and reward that they think will help them stick to a particular
-        habit. If that cycle does not work for a user, they can go back and edit that habit.
+        <p className="project-desc">The Compound Effect is an app that helps users build and track habits
+          using the habit loop of cues, routines, and rewards. A user can create a secure account
+          and create a habit, specifically laying out a cue, routine, and reward. A cue is a trigger that tells
+          the user when do to the habit, the routine is the habit itself, and the reward is some action that helps
+          the brain remember that this habit is worth remembering next time. If that cycle does not work for a user,
+          the habit cycle can be edited. 
         </p>
         <div>
           <img className="project-photo" src={TCE1} alt="head shot" height="400px"/>
