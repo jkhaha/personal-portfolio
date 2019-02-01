@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import ContactLinks from './ContactLinks'
 
 class Contact extends Component{
+
   render(){
     return(
       <div>
